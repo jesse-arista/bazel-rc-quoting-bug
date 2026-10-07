@@ -35,6 +35,7 @@ Instead,
 ```
 $ bazel --bazelrc rc info --announce_rc release
 [...]
-Inherited 'common' options: --define one=helloworld --define two=hello\world
+  Inherited 'common' options: --define one=helloworld --define two=hello\world
 [...]
+release 9.2.0
 ```
