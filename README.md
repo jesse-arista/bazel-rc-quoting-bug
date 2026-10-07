@@ -25,7 +25,7 @@ Given
 `rc`:
 ```
 common --define 'one=hello\world'
-common --define 'two=hello\\world
+common --define 'two=hello\\world'
 ```
 
 according to Bash rules I'd expect `one` to have the value `hello\world` and `two` to have the value `hello\\world`.
