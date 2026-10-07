@@ -1,0 +1,2 @@
+common --define 'one=hello\world'
+common --define 'two=hello\\world'
